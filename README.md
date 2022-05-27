@@ -1,1 +1,1 @@
-# computer vision using HOG 
+# detect edge using HOG 
