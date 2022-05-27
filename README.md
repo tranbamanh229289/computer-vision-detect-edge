@@ -1,1 +1,1 @@
-# computer-vision-detect-object
+# computer vision using HOG 
